@@ -1,0 +1,18 @@
+/* Minimale Breite der Buttons. Zentrierte Ausrichtung der Schrift */
+.ipsCategory > .container .content .rightSide > .enum > div, 
+.ipsCategory > .container .content .rightSide > .selector > div, 
+.ipsCategory > .container .extended > .textBox > div {
+	min-width: 50px;
+	text-align: center; 
+}
+
+.ipsWebFront {
+	background-color: #555555;
+}
+
+.ipsTabPane .navigation {
+	background-color: #111111;
+}
+
+.ipsNotifications > .ipsNotification > .message > .error {
+  color: transparent; }
