@@ -13,6 +13,3 @@
 .ipsTabPane .navigation {
 	background-color: #111111;
 }
-
-.ipsNotifications > .ipsNotification > .message > .error {
-  color: transparent; }
