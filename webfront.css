@@ -10,6 +10,7 @@
 	background-color: #555555;
 }
 
-.ipsTabPane .navigation {
+.ipsTabPane > .navigation ,
+.ipsContentChanger > .navigation {
 	background-color: #111111;
 }
