@@ -1,6 +1,6 @@
 /* Minimale Breite der Buttons. Zentrierte Ausrichtung der Schrift */
-.ipsCategory > .container .content .rightSide > .enum > div, 
-.ipsCategory > .container .content .rightSide > .selector > div, 
+.ipsCategory > .container .content .visual > .enum > div, 
+.ipsCategory > .container .content .visual > .selector > div, 
 .ipsCategory > .container .extended > .textBox > div {
 	min-width: 50px;
 	text-align: center; 
