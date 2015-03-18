@@ -14,3 +14,11 @@
 .ipsContentChanger > .navigation {
 	background-color: #111111;
 }
+
+.icon.td {
+	display: none !important;
+}
+
+.ipsCategory > .container .content .title {
+	padding-left: 10px;
+}	
