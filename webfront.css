@@ -14,3 +14,11 @@
 .ipsContentChanger > .navigation {
 	background-color: #111111;
 }
+
+.ipsChart,
+.ipsChartDialog .content .ipsContainer {
+  -webkit-animation-name: none !important;
+  -moz-animation-name: none !important;
+  -ms-animation-name: none !important;
+  animation-name: none !important;
+}
