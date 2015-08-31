@@ -6,6 +6,7 @@
 	text-align: center; 
 }
 
+/* Farbe verändern */
 .ipsWebFront {
 	background-color: #555555;
 }
@@ -15,6 +16,7 @@
 	background-color: #111111;
 }
 
+/* Animation für alle Graphen deaktivieren */
 .ipsChart,
 .ipsChartDialog .content .ipsContainer {
   -webkit-animation-name: none !important;
