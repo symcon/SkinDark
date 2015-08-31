@@ -24,3 +24,8 @@
   -ms-animation-name: none !important;
   animation-name: none !important;
 }
+
+/* Spezielle HTMLBox ohne Titel (Profil: HTMLBox.NoTitle) */
+[class~="ipsVariableProfile[HTMLBox.NoTitle]"] .content.tr {
+    display: none!important;
+}
