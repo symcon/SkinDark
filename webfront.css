@@ -6,7 +6,14 @@
 	text-align: center; 
 }
 
+/* Logo austauschen */
+
+.ipsLogin > .logo {
+	background-image: url(logo.svg);
+}
+
 /* Farbe verändern */
+.ipsLogin,
 .ipsWebFront {
 	background-color: #555555;
 }
