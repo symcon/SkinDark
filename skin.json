@@ -5,12 +5,27 @@
     "url": "http:\/\/www.ip-symcon.de\/forum\/",
     "git": "https:\/\/github.com\/paresy\/DarkSkin.git",
     "icons": [
+        "Battery-0",
+        "Battery-100",
+        "Battery-50",
         "Bird",
         "Flag",
         "Globe",
         "Heart",
         "Marker",
         "Shield",
-        "Star"
+        "Speaker-0",
+        "Speaker-1",
+        "Speaker-100",
+        "Speaker-25",
+        "Speaker-50",
+        "Star",
+        "Temperature-0",
+        "Temperature-100",
+        "Temperature-25",
+        "Temperature-50",
+        "Temperature-75",
+        "Window-0",
+        "Window-100"
     ]
 }
