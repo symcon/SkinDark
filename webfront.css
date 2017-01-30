@@ -36,3 +36,16 @@
 [class~="ipsVariableProfile[HTMLBox.NoTitle]"] .content.tr {
     display: none!important;
 }
+
+/* Alle Elemente aus Enums/Selectors für das Variablenprofil "VieleAssoziationen" anzeigen */
+[class~="ipsVariableProfile[VieleAssoziationen]"] .content .visual > .enum.overflowing,
+[class~="ipsVariableProfile[VieleAssoziationen]"] .content .visual > .selector.overflowing {
+    height: initial;
+    white-space: normal;
+}
+
+[class~="ipsVariableProfile[VieleAssoziationen]"] .content .visual > .enum.overflowing > div,
+[class~="ipsVariableProfile[VieleAssoziationen]"] .content .visual > .selector.overflowing > div {
+    display: inline-block!important;
+    pointer-events: auto!important;
+}
