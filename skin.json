@@ -1,9 +1,9 @@
 {
-    "author": "Michael Maroszek",
-    "version": "0.15",
+    "author": "Symcon GmbH",
+    "version": "1.0",
     "compatible": 1,
     "url": "http:\/\/www.ip-symcon.de\/forum\/",
-    "git": "https:\/\/github.com\/paresy\/DarkSkin.git",
+    "git": "https:\/\/github.com\/symcon\/SkinDark.git",
     "icons": [
         "Battery-0",
         "Battery-100",
